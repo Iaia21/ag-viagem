@@ -1,0 +1,47 @@
+/*.menu a{
+text-align: right;
+color: black;
+font-size: 30px;
+font-family:Arial, Helvetica, sans-serif;
+
+}*/
+.container h1 {
+text-align: center;
+
+}
+.box_destino {
+font-family:Arial, Helvetica, sans-serif;    
+color: black;
+border-image-width: 100%;
+text-align:center;
+
+}
+.box_destino a {
+    font-family:Arial, Helvetica, sans-serif;    
+    color: black;
+    border-image-width: 100%;
+    text-align:center;
+    
+    }
+
+.container form {
+align-items: baseline;
+
+}
+#rodape {
+font-family:Arial, Helvetica, sans-serif;
+color:black;
+text-align: center;
+font-size: 20px;
+ 
+}
+/*#menu {
+font-family: Arial, Helvetica, sans-serif;
+font-style:black;
+font-weight: 100px;
+
+}*/
+.jumbotron-fluid {
+background-color: #BBF3F9;
+
+}
