@@ -1,0 +1,35 @@
+.table {
+border:0;
+width: 100%;
+padding-bottom: 40;
+align-items: center;
+}
+
+.table1 {
+    width:50%;
+    align-items:center;
+}
+
+.table2 {
+    width:40%;
+    align-items:center; 
+}
+
+.table3 {
+    width:50%;
+    align-items:center; 
+}
+
+.email {
+    width:50px;
+}
+
+.sac {
+    width:100px;
+}
+
+.area {
+    align-items: center;
+    margin:50%;
+    width: 400px;
+}
